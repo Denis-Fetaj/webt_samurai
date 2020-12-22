@@ -1,0 +1,52 @@
+body {
+    background-image: url("samurai_hintergrund.jpg");
+    background-repeat: repeat;
+    background-size: cover;
+  }
+
+  h1 {
+    color: #000000;
+    text-align: center;
+    font-family: verdana;
+    font-size: 65px;
+}
+
+
+h2 {
+    color: #000000;
+    font-size: 30px;
+    text-align: center;
+}
+
+p  {
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+p  {
+    color: #000000;
+    font-size: 20px;
+}
+
+div {
+     text-align: center; 
+}
+
+ul  { 
+     display: inline-block; text-align: left; 
+}
+
+div {
+    text-align: center;
+}
+
+#Mamori {
+    width: 200px;
+    height: 200px;
+    position: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
